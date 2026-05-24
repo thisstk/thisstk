@@ -70,7 +70,7 @@ I enjoy solving complex engineering problems, optimizing performance, and buildi
 ✅ Open-source contributions
 
  ✅ Performance and scalability optimization
- 
+
 🌟 Open Source Contributions
 I actively contribute to open-source projects and enjoy collaborating with developers worldwide. Open source has helped shape my engineering journey, and I’m always excited to contribute back to the community.
  
