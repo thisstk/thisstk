@@ -79,7 +79,7 @@ I actively contribute to open-source projects and enjoy collaborating with devel
 * 💼 LinkedIn: www.linkedin.com/in/thisstk
 * 📧 Email: captaintk2003@gmail.com
 * 🐦 Twitter/X: https://x.com/drrforex.com
- 
+
  
 ⚡ Fun Fact
 Great software is built not only to work today, but to scale tomorrow.
