@@ -56,13 +56,19 @@ I enjoy solving complex engineering problems, optimizing performance, and buildi
 * Node.js
 * Express.js
 * Fastify
- 
+
 📈 What I Focus On
+
 ✅ Building scalable backend infrastructures
+
  ✅ Writing clean, maintainable, and efficient code
+ 
  ✅ Designing secure APIs and systems
+ 
  ✅ Blockchain & smart contract engineering
+ 
 ✅ Open-source contributions
+
  ✅ Performance and scalability optimization
  
 🌟 Open Source Contributions
